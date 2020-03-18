@@ -1,0 +1,28 @@
+main{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    height: 400px;
+    background-color: aqua;
+}
+div{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+}
+    h1{
+    text-align: center;
+
+}
+#a{order: 3;
+    background-color: red;
+
+}
+#b{order: 1;
+background-color: green;
+}
+#c{order: 2;
+
+background-color: blue;
+}
