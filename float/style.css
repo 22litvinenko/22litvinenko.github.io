@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif tah;
+}
+div{
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+#a{
+    float: left;}
+#b{float: right}
+#c{float: left}
+#d{float:right}
+#e{clear: both;
+
+font-size: 1.5em;
+overflow-x: hidden;
+overflow-y: scroll;}
+#mainp {
+    border: 2px solid red;
+}
+span{
+    border: inherit;
+}
